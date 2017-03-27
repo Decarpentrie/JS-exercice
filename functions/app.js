@@ -40,10 +40,25 @@ return "le premier nombre est plus petit";
 }
 
 };
+var result =nombre(2, 9);
+console.log(result);
 
 
-var result =nombre(2, 9)
-console.log(result)
+
+function nombre_et_caratère(chiffre, yop) {
+	return chiffre + yop
+};
+console.log(nombre_et_caratère(2, "yop"))
+
+
+
+
+
+
+
+
+
+
 
 
 
