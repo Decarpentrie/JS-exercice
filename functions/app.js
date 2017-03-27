@@ -1,10 +1,9 @@
 function fontion() {
 	
-	console.log("true");
-
+	return true;
 
 };
-fontion();
+console.log(fontion());
 
 
 function chaine_de_caractère(coucou) {
@@ -13,3 +12,10 @@ function chaine_de_caractère(coucou) {
 };
 console.log(chaine_de_caractère("coucou"));
 
+
+function deux_caractère(coucou, hello) {
+
+	return coucou + hello;
+
+};
+console.log(deux_caractère("coucou", "hello"));
