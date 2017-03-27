@@ -8,7 +8,7 @@ console.log(fontion());
 
 
 
-function chaine_de_caractère(coucou) {
+function chaineCaractère(coucou) {
 	
 	return coucou;
 };
@@ -16,7 +16,7 @@ console.log(chaine_de_caractère("coucou"));
 
 
 
-function deux_caractère(coucou, hello) {
+function deuxCaractère(coucou, hello) {
 
 	return coucou + hello;
 
@@ -45,7 +45,7 @@ console.log(result);
 
 
 
-function nombre_et_caratère(chiffre, yop) {
+function nombreCaratère(chiffre, yop) {
 	return chiffre + yop
 };
 console.log(nombre_et_caratère(2, "yop"))
