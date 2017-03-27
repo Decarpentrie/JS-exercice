@@ -4,7 +4,7 @@ mois.splice(7,1,"Août");
 
 for (var i = 0; i < mois.length; i++) {
 	
-	console.log (i);
+	console.log (mois[i]);
 }
 
 
