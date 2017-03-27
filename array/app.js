@@ -9,3 +9,6 @@ array.splice(1,1);
 array.splice(2,0, "Poire");
 
 console.log(array);
+
+
+ 
